@@ -1,7 +1,7 @@
 {
   "name": "projectlabapi1",
   "version": "1.0.0",
-  "description": "First demo app with react native and express js",
+  "description": "First demo app with react native and express js ",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
