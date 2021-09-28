@@ -1,0 +1,11 @@
+{
+  "name": "projectlabapi1",
+  "version": "1.0.0",
+  "description": "First demo app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Subhrajyoti Basu",
+  "license": "MIT"
+}
